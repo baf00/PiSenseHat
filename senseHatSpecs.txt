@@ -1,0 +1,20 @@
+From: https://www.adafruit.com/product/2738
+
+TECHNICAL DETAILS
+
+Gyroscope
+Angular rate sensor (dps): ~245/500/2000
+Accelerometer
+Linear acceleration sensor (g): ~2/4/8/16
+Magnetometer
+Magnetic sensor (gauss): ~4/8/12/16
+Barometer: 260 - 1260 hPa absolute range (accuracy depends on the temperature and pressure, ~0.1 hPa under normal conditions)
+Temperature sensor: Accurate to ~2°C in the 0-65°C range
+Relative humidity sensor: Accurate to ~4.5% in the 20-80%rH range, accurate to ~0.5°C in 15-40°C range
+8x8 LED matrix display
+Small 5 button joystick
+Standoffs may come in plastic or metal varieties
+Product Dimensions: 65.1mm x 56.6mm x 13.9mm / 2.6" x 2.2" x 0.5"
+
+Product Weight: 20.4g / 0.7oz
+
